@@ -1,0 +1,281 @@
+body {
+  margin: 0;
+  padding: 0;
+  max-height: 100vh;
+}
+
+header {
+  background: #19c37d;
+  /* height: 50px; */
+}
+
+header img {
+  height: 50px;
+}
+
+header p {
+  margin: 0;
+  padding-bottom: 10px;
+  margin-top: -10px;
+  text-align: center;
+  color: white;
+}
+
+.discription p {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.condent_container .large_left_section {
+  width: 75%;
+}
+
+.condent_container .large_left_section h1 {
+  border-color: #19c37d !important;
+}
+
+.condent_container
+  .large_left_section
+  .optmize_your_body_with
+  .user_data
+  .image_with_data
+  .post_data
+  p {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.condent_container .large_left_section .find_out_more {
+  background: rgb(14, 18, 219);
+  background: linear-gradient(
+    0deg,
+    rgba(14, 18, 219, 1) 0%,
+    rgba(121, 9, 105, 1) 78%
+  );
+  height: 40px;
+}
+
+.condent_container .large_left_section .find_out_more a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.condent_container
+  .large_left_section
+  .how_health_intelligence_test_helps_you_learn_about_yourself {
+  border-color: #19c37d !important;
+}
+
+.condent_container
+  .large_left_section
+  .integrative_functional_health_scores
+  .number_with_text {
+  border-color: #19c37d !important;
+}
+
+.condent_container
+  .large_left_section
+  .integrative_functional_health_scores
+  .number_with_text
+  p {
+  background: #19c37d !important;
+  width: 30px;
+  height: 30px;
+  font-weight: 800;
+  font-size: 20px;
+  color: white;
+}
+
+.condent_container
+  .large_left_section
+  .integrative_functional_health_scores
+  .cards
+  .card_with_discription {
+  background: #f5ecec;
+}
+
+.condent_container
+  .large_left_section
+  .integrative_functional_health_scores
+  .cards
+  .card_with_discription
+  .img_with_text {
+  background: #19c37d !important;
+  width: 100%;
+  height: 150px;
+}
+
+.condent_container .large_left_section .GET_TESTED_NOW {
+  background: rgb(14, 18, 219);
+  background: linear-gradient(
+    0deg,
+    rgba(14, 18, 219, 1) 0%,
+    rgba(121, 9, 105, 1) 78%
+  );
+  height: 40px;
+}
+
+.condent_container .large_left_section .GET_TESTED_NOW a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.condent_container
+  .large_left_section
+  .IT_TAKES_JUST_4_SIMPLE_STEPS
+  .img_with_text
+  .rounded-image {
+  border-radius: 50%;
+  background: #19c37d !important;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  overflow: hidden;
+}
+.condent_container
+  .large_left_section
+  .IT_TAKES_JUST_4_SIMPLE_STEPS
+  .img_with_text
+  .rounded-image
+  img {
+  height: 48px;
+  width: 37px;
+}
+.condent_container
+  .large_left_section
+  .weight_loss_as_a_side_effect
+  .img_discription
+  img {
+  width: 200px;
+  height: 150px;
+}
+.condent_container
+  .large_left_section
+  .weight_loss_as_a_side_effect
+  .viome_is_safe_tested_and_proven {
+  background: #f5ecec;
+}
+.condent_container
+  .large_left_section
+  .weight_loss_as_a_side_effect
+  .sign_up_today {
+  background: rgb(14, 18, 219);
+  background: linear-gradient(
+    0deg,
+    rgba(14, 18, 219, 1) 0%,
+    rgba(121, 9, 105, 1) 78%
+  );
+  height: 40px;
+}
+.condent_container
+  .large_left_section
+  .weight_loss_as_a_side_effect
+  .sign_up_today
+  a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.small_right_section .user_card {
+  position: relative;
+  width: 250px;
+  /* height: 180px; */
+  background: rgb(219, 14, 207);
+  background: linear-gradient(
+    0deg,
+    rgba(219, 14, 207, 1) 58%,
+    rgba(242, 10, 57, 1) 82%
+  );
+}
+
+.small_right_section .user_card .user_data {
+  padding-top: 20%;
+}
+
+.triangle {
+  position: absolute;
+  bottom: 207px;
+  left: 114px;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 15px solid rgb(255, 255, 255);
+}
+
+footer {
+  background: #19c37d !important;
+}
+footer .center_section span {
+  color: white;
+}
+footer .center_section span a {
+  text-decoration: none;
+  color: white;
+}
+footer .center_section ul {
+  list-style-type: none;
+  color: white;
+}
+footer .center_section p {
+  color: white;
+  margin: 0;
+}
+
+footer .source ul {
+  list-style-type: none;
+  color: white;
+}
+footer .source a {
+  text-decoration: none;
+  color: white;
+}
+
+@media (max-width: 400px) {
+  .condent_container .large_left_section {
+    width: 100%;
+  }
+
+  .large_left_section
+    .integrative_functional_health_scores
+    .cards
+    .card_with_discription
+    .img_with_text {
+    width: 700px;
+  }
+  .condent_container
+    .large_left_section
+    .IT_TAKES_JUST_4_SIMPLE_STEPS
+    .img_with_text
+    .rounded-image {
+    width: 125px;
+  }
+  .condent_container
+    .large_left_section
+    .weight_loss_as_a_side_effect
+    .img_discription
+    img {
+    width: 100%;
+    height: 165px;
+  }
+
+  .small_right_section .user_card {
+    margin-top: 10px;
+    width: 100%;
+  }
+  .small_right_section .user_card .user_data {
+    padding-top: 10%;
+  }
+  .triangle {
+    display: none;
+  }
+}
